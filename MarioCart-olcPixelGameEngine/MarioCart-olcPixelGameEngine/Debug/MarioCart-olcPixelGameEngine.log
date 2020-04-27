@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\buddhima zoysa\source\repos\mariocart-olcpixelgameengine\mariocart-olcpixelgameengine\source.cpp(21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\buddhima zoysa\source\repos\mariocart-olcpixelgameengine\mariocart-olcpixelgameengine\source.cpp(23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MarioCart-olcPixelGameEngine.vcxproj -> C:\Users\Buddhima Zoysa\source\repos\MarioCart-olcPixelGameEngine\Debug\MarioCart-olcPixelGameEngine.exe

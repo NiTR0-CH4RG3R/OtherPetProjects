@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\buddhima zoysa\source\repos\mariocart-olcpixelgameengine\mariocart-olcpixelgameengine\source.cpp(24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  All 1140 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MarioCart-olcPixelGameEngine.vcxproj -> C:\Users\Buddhima Zoysa\source\repos\MarioCart-olcPixelGameEngine\x64\Release\MarioCart-olcPixelGameEngine.exe
